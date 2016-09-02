@@ -1,0 +1,23 @@
+END-USER LICENSE AGREEMENT
+FOR GT VINC SOFTWARE
+
+PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE. BY USING THIS SOFTWARE IN ANY WAY YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THIS SOFTWARE IN ANY WAY, AND PROMPTLY RETURN IT OR DELETE ANY COPIES OF THIS SOFTWARE IN YOUR POSSESSION.
+
+GRANT OF LICENSE
+GT VINC ("GT VINC") grants you a non-exclusive license to use this software, and any associated documentation ("The Software"), as indicated herein. If you have purchased a Single-User License, this Software may be installed on a maximum of two computers, so long as it is ONLY running on one system at any time: i.e. one installation at home and one installation at the office and used only by the licensee. If you have purchased a Site License for commercial or educational use, the Software can be used within a corporate LAN without any restrictions.
+You MAY: (a) redistribute rendered morphing images and animations for any purposes; (b) make a copy of the software for archival purpose only; (c) install the Software on another computer only if you change of workstation. In such a case you must uninstall the software from the previous workstation.
+
+RESTRICTIONS
+You MAY NOT: (a) copy and distribute the Software or any portion of it; (b) sublicense, lease, rent, or transfer this Software to another; (c) cause or permit reverse engineering, disassembly, decompilation or alteration of this Software; (d) remove any product identification, copyright notices, or other notices or proprietary restrictions from this Software; (e) copy the documentation accompanying the software.
+
+TERM
+This License is effective until terminated. You may terminate it at any time by destroying the Software, together with all copies thereof. This License will also terminate if you fail to comply with any term or condition of this Agreement. Upon such termination, you agree to destroy the Software, together with all copies thereof.
+
+COPYRIGHT/OWNERSHIP
+This Software and its source code are proprietary products of GT VINC and are protected by copyright and other intellectual property laws. The Software is licensed and not sold. You acquire only the right to use the Software and do not acquire any rights, express or implied, in the Software other than those specified in this License.
+
+DISCLAIMER OF WARRANTIES
+The Software is supplied "AS IS". GT VINC disclaims all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose. The user must assume the entire risk of using the Software.
+
+DISCLAIMER OF DAMAGES
+GT VINC assumes no liability for damages, direct or consequential, which may result from the use of the Software, even if GT VINC has been advised of the possibility of such damages. Any liability of the seller will be limited to refund the purchase price.

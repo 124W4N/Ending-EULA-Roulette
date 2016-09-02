@@ -1,0 +1,41 @@
+iPod Video Converter LICENSE AGREEMENT
+
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THE iPod Video Converter. e-z soft inc.. AND/OR ITS SUBSIDIARIES IS WILLING TO LICENSE THE SOFTWARE TO YOU AS THE INDIVIDUAL, THE COMPANY, OR THE LEGAL ENTITY THAT WILL BE UTILIZING THE iPod Video Converter (REFERENCED BELOW AS "YOU" OR "YOUR") ONLY ON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS OF THIS LICENSE AGREEMENT. THIS IS A LEGAL AND ENFORCEABLE CONTRACT BETWEEN YOU AND e-z soft inc.. BY CLICKING ON THE "AGREE" OR "YES" BUTTON OR OTHERWISE INDICATING ASSENT ELECTRONICALLY, OR LOADING THE SOFTWARE, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, CLICK ON THE "I DO NOT AGREE", "NO" BUTTON, OR OTHERWISE INDICATE REFUSAL, MAKE NO FURTHER USE OF THE SOFTWARE, AND CONTACT THE CUSTOMER SUPPORT TEAM. 
+
+1. License
+The software which accompanies this license (collectively the "Software") is the property of e-z soft inc.. or its licensors and is protected by copyright law. While e-z soft inc.. continues to own the iPod Video Converter, You will have certain rights to use the iPod Video Converter after Your acceptance of this license. This license governs any releases, revisions, or enhancements to the iPod Video Converter that e-z soft inc.. may furnish to You.
+Your rights and obligations with respect to the use of this Software for the period provided by e-z soft inc.. by the time of Software downloading are as follows:
+
+You may:
+A. make one copy of the iPod Video Converter for archival purposes, or copy the iPod Video Converter onto the hard disk of Your computer and retain the original for archival purposes for the period provided by e-z soft inc..;
+B. use the iPod Video Converter on a network, provided that You have a copy of the iPod Video Converter for each computer that can access the iPod Video Converter over that network for the period provided by e-z soft inc..; and
+C. purchase year subscription of iPod Video Converter;
+D. be informed of any changes or updates regarding the iPod Video Converter by e-mail or any other contact method available for the period provided by e-z soft inc.. by the time of Software downloading.
+
+You may not:
+A. copy the printed documentation which may accompany the iPod Video Converter; 
+B. sublicense, rent or lease any portion of the iPod Video Converter; reverse engineer, decompile, disassemble, modify, translate, make any attempt to discover the source code of the iPod Video Converter, or create derivative works from the iPod Video Converter; 
+C. use the iPod Video Converter in any manner not authorized by this license.
+
+2. Content Updates
+Certain e-z soft inc.. products utilize content that is updated from time to time (antivirus products utilize updated virus definitions; content filtering products utilize updated URL lists; firewall products utilize updated firewall rules; vulnerability assessment products utilize updated vulnerability data, etc.; collectively, these are 
+referred to as "Content Updates"). You may obtain Content Updates for any period for which You have registered a subscription for Content Updates for the iPod Video Converter, downloaded a free copy, purchased upgrade insurance for the iPod Video Converter, entered into a maintenance agreement that includes Content Updates, or otherwise separately acquired the right to obtain Content Updates. This license does not otherwise permit You to obtain and use Content Updates.
+
+3.  Data Usage Consent
+You agree that e-z soft inc.. may collect and use technical information that You provide in connection with Your Use and request for technical support of the Product from e-z soft inc.., however, e-z soft inc.. will not use this information in a form that personally identifies You.
+
+4. Limited Warranty
+e-z soft inc.. warrants that the media on which the iPod Video Converter is distributed will be free from defects for a period of sixty (60) days from the date of delivery of the iPod Video Converter to You. Your sole remedy in the event of a breach of this warranty will be that e-z soft inc.. will, at its option, replace any defective media returned to e-z soft inc.. within the warranty period. e-z soft inc.. does not warrant that the iPod Video Converter will meet Your requirements or that operation of the iPod Video Converter will be uninterrupted or that the iPod Video Converter will be error-free.
+iPod Video Converter setup procedure may uninstall some other products or components in order to avoid ones' incompatibility with the Software being installed. 
+iPod Video Converter software automatically adds e-z soft inc.. sites to Internet Explorer trusted zone. 
+
+Downloading free iPod Video Converter copy, you are not entitled to receive technical support nor the full functionality that comes with the Software until a license fee has been paid.
+
+THE ABOVE WARRANTY IS EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS. YOU MAY HAVE OTHER RIGHTS, WHICH VARY FROM STATE TO STATE AND COUNTRY TO COUNTRY.
+
+5. Disclaimer of Damages
+SOME STATES AND COUNTRIES, INCLUDING MEMBER COUNTRIES OF THE EUROPEAN ECONOMIC AREA, DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES SO THE BELOW LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW AND REGARDLESS OF WHETHER ANY REMEDY SET FORTH HEREIN FAILS OF ITS ESSENTIAL PURPOSE, IN NO EVENT WILL e-z soft inc.. OR ITS LICENSORS BE LIABLE TO YOU FOR ANY SPECIAL, CONSEQUENTIAL, INDIRECT OR SIMILAR DAMAGES, INCLUDING ANY LOST PROFITS OR LOST DATA ARISING OUT OF THE USE OR INABILITY TO USE THE iPod Video Converter EVEN IF e-z soft inc.. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+The disclaimers and limitations set forth above will apply regardless of whether You accept the iPod Video Converter.

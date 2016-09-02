@@ -1,0 +1,200 @@
+BrilliantPhoto(R) Version 1.2
+Copyright (C) 2003-2004 Brilliant Labs, Inc.
+All Rights Reserved
+
+*** BRILLIANTPHOTO STANDARD LICENSE ***
+
+This license applies to the standard-licensed version of BrilliantPhoto.
+If you have an evaluation version of BrilliantPhoto, see the section below titled 
+BrilliantPhoto Evaluation License.
+
+BRILLIANT LABS LICENSE
+BRILLIANT LABS, INC.
+
+YOUR AGREEMENT TO THIS LICENSE
+
+You should carefully read the following terms and conditions before using, 
+installing or distributing this software.  Unless you have a different 
+license agreement signed by Brilliant Labs, Inc. ("BLI") your use, 
+distribution, or installation of BrilliantPhoto indicates your acceptance 
+of this agreement ("License").
+
+If you do not agree to all of the terms and conditions of this License, then: 
+(a) do not copy, install, distribute or use any copy of BrilliantPhoto with which 
+this License is included, and (b) in addition, if you paid BLI or an 
+authorized BLI reseller for a package consisting of one or more copies of 
+BrilliantPhoto you may return the complete package unused, within thirty 
+(30) days after purchase, for a full refund of your payment.
+
+The terms and conditions of this License describe the permitted use and 
+user(s) of each Licensed Copy of BrilliantPhoto. For purposes of this 
+License, if you have a valid single-copy license, you have the right to use 
+a single "Licensed Copy" of BrilliantPhoto; if you or your organization has 
+a valid multi-user license, then you or your organization have/has the right 
+to use up to a number of "Licensed Copies" of BrilliantPhoto equal to the 
+number of copies indicated in the documents issued by BLI when granting the
+license.
+
+SCOPE OF LICENSE
+
+Each Licensed Copy of BrilliantPhoto may either be used by a single person 
+who uses the software personally on one or more computers, or installed on 
+a single workstation used nonsimultaneously by multiple people, but not both. 
+This is not a concurrent use license.
+
+Each Licensed Copy may be accessed through a network, provided that you have 
+purchased rights to use a Licensed Copy for each workstation that will access 
+BrilliantPhoto through the network.  For instance, if 8 different workstations will 
+access Brilliant Photo on the network, you must purchase rights to use 8 
+Licensed Copies of BrilliantPhoto, regardless of whether the 8 workstations 
+will access BrilliantPhoto at different times or concurrently.
+
+All rights of any kind in BrilliantPhoto which are not expressly granted in 
+this License are entirely and exclusively reserved to and by BLI.  You may 
+not rent, lease, modify, translate, reverse engineer, decompile, disassemble, 
+or create derivative works based on BrilliantPhoto, nor permit anyone else to 
+do so. You may not make access to BrilliantPhoto available to others in 
+connection with a service bureau, application service provider, or similar
+business, nor permit anyone else to do so.
+
+WARRANTY DISCLAIMERS AND LIABILITY LIMITATIONS
+
+BRILLIANTPHOTO, AND ANY AND ALL ACCOMPANYING SOFTWARE, FILES, DATA 
+AND MATERIALS, ARE DISTRIBUTED AND PROVIDED "AS IS" AND WITH NO 
+WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. You acknowledge 
+that good data processing procedure dictates that any program, including 
+BrilliantPhoto, must be thoroughly tested with non-critical data before 
+there is any reliance on it, and you hereby assume the entire risk of all 
+use of the copies of BrilliantPhoto covered by this License.  
+THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE.
+
+ANY LIABILITY OF BLI WILL BE LIMITED EXCLUSIVELY TO REFUND OF PURCHASE 
+PRICE. IN ADDITION, IN NO EVENT SHALL BLI, OR ITS PRINCIPALS, 
+SHAREHOLDERS, OFFICERS, EMPLOYEES, AFFILIATES, CONTRACTORS, SUBSIDIARIES, 
+OR PARENT ORGANIZATIONS, BE LIABLE FOR ANY INDIRECT, INCIDENTAL, 
+CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER RELATING TO THE USE OF 
+BRILLIANTPHOTO, OR TO YOUR RELATIONSHIP WITH BLI.
+
+IN ADDITION, IN NO EVENT DOES BLI AUTHORIZE YOU OR ANYONE ELSE TO 
+USE BRILLIANTPHOTO IN APPLICATIONS OR SYSTEMS WHERE BRILLIANTPHOTO'S 
+FAILURE TO PERFORM CAN REASONABLY BE EXPECTED TO RESULT IN A SIGNIFICANT 
+PHYSICAL INJURY, OR IN LOSS OF LIFE.  ANY SUCH USE IS ENTIRELY AT YOUR 
+OWN RISK, AND YOU AGREE TO HOLD BLI HARMLESS FROM ANY AND ALL CLAIMS 
+OR LOSSES RELATING TO SUCH UNAUTHORIZED USE.
+
+GENERAL
+
+This License is the complete statement of the agreement between the parties 
+on the subject matter, and merges and supersedes all other or prior 
+understandings, purchase orders, agreements and arrangements.  This License 
+shall be governed by the laws of the State of Delaware, without regard to 
+Delaware choice-of-law rules. Exclusive jurisdiction and venue for all matters 
+relating to this License shall be in courts and fora located in the State
+of Delaware, and you consent to such jurisdiction and venue. There are no 
+third party beneficiaries of any promises, obligations or representations 
+made by BLI herein. Any waiver by BLI of any violation of this License by you 
+shall not constitute, nor contribute to, a waiver by BLI of any other or
+future violation of the same provision, or any other provision, of this 
+License.
+
+*** BRILLIANTPHOTO EVALUATION LICENSE ***
+
+This license applies to the evaluation version of BrilliantPhoto.  If you
+do not have an evaluation version of BrilliantPhoto, see the section above 
+titled BrilliantPhoto Standard License.
+
+BRILLIANTPHOTO LICENSE
+EVALUATION VERSION
+BRILLIANT LABS, INC.
+
+YOUR AGREEMENT TO THIS LICENSE
+
+By using, copying, transmitting, distributing or installing BrilliantPhoto 1.0
+("BrilliantPhoto"), you agree to all of the terms of this agreement 
+("License").
+
+Please read the license terms below.  If you do not agree to all of the terms 
+of this License, then do not use, copy, transmit, distribute, or install 
+BrilliantPhoto.
+
+SCOPE OF LICENSE
+
+This is not free software.  Subject to the terms below, you are hereby licensed 
+by BrilliantPhoto Computing, Inc. ("BLI") to use one copy of BrilliantPhoto, on 
+one (1) computer or workstation, for evaluation purposes without charge for a 
+period of 21 days.  If you use this software after the 21 day evaluation period 
+a registration fee of US$34.95 is required.  Payments must be in US dollars 
+drawn on a US bank, and should be sent to BrilliantPhoto Computing, Inc., 
+3 Seahorse Ct, Isle of Palms, SC 29451, USA. See the BrilliantPhoto web site at
+www.brilliantlabs.com for information about online ordering and quantity
+discounts.
+
+Unregistered use of BrilliantPhoto after the 21-day evaluation period is in 
+violation of U.S. and international copyright laws.
+
+You may, without making any payment to BLI:
+
+    a)  give exact copies of this evaluation version of BrilliantPhoto
+        personally to anyone, except for the purpose of extending
+        their 21 day evaluation period;
+
+    b)  distribute exact copies of this evaluation version of
+        BrilliantPhoto, if done exclusively through electronic channels;
+        and
+
+    c)  make as many exact copies of this evaluation version of
+        BrilliantPhoto as you wish, for purposes of distribution as
+        described in (a) and (b) above.
+
+YOU ARE SPECIFICALLY PROHIBITED FROM CHARGING, OR REQUESTING
+DONATIONS, FOR ANY COPIES, HOWEVER MADE, AND FROM DISTRIBUTING
+SUCH COPIES WITH OTHER PRODUCTS OF ANY KIND, COMMERCIAL OR
+OTHERWISE, WITHOUT PRIOR WRITTEN PERMISSION FROM BLI. BLI
+RESERVES THE RIGHT TO REVOKE THE ABOVE DISTRIBUTION RIGHTS AT ANY
+TIME, FOR ANY OR NO REASON.
+
+All rights of any kind in BrilliantPhoto which are not expressly granted in 
+this License are entirely and exclusively reserved to and by BLI. You may 
+not rent, lease, modify, translate, reverse engineer, decompile, disassemble, 
+or create derivative works based on, BrilliantPhoto. You may not make access 
+to BrilliantPhoto available to others in connection with a service bureau, 
+application service provider, or similar business.
+
+WARRANTY DISCLAIMERS AND LIABILITY LIMITATIONS
+
+BRILLIANTPHOTO, AND ANY AND ALL ACCOMPANYING SOFTWARE, FILES, DATA 
+AND MATERIALS, ARE DISTRIBUTED AND PROVIDED "AS IS" AND WITH NO 
+WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. You acknowledge 
+that good data processing procedure dictates that any program, including 
+BrilliantPhoto, must be thoroughly tested with non-critical data before 
+you rely on it, and you hereby assume the entire risk of using the program.
+THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE.
+
+ANY LIABILITY OF BLI WILL BE LIMITED EXCLUSIVELY TO REFUND OF PURCHASE 
+PRICE, IF ANY.  IN ADDITION, IN NO EVENT SHALL BLI, OR ITS PRINCIPALS, 
+SHAREHOLDERS, OFFICERS, EMPLOYEES, AFFILIATES, CONTRACTORS, SUBSIDIARIES, 
+OR PARENT ORGANIZATIONS, BE LIABLE FOR ANY INDIRECT, INCIDENTAL, 
+CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER RELATING TO THE USE OF 
+BRILLIANTPHOTO, OR TO YOUR RELATIONSHIP WITH BLI.
+
+IN ADDITION, IN NO EVENT DOES BLI AUTHORIZE YOU TO USE BRILLIANTPHOTO 
+IN APPLICATIONS OR SYSTEMS WHERE BRILLIANTPHOTO'S FAILURE TO PERFORM 
+CAN REASONABLY BE EXPECTED TO RESULT IN A SIGNIFICANT PHYSICAL INJURY, 
+OR IN LOSS OF LIFE.  ANY SUCH USE BY YOU IS ENTIRELY AT YOUR OWN RISK, 
+AND YOU AGREE TO HOLD BLI HARMLESS FROM ANY AND ALL CLAIMS OR LOSSES 
+RELATING TO SUCH UNAUTHORIZED USE.
+
+GENERAL
+
+This License is the complete statement of the agreement between the parties 
+on the subject matter, and merges and supersedes all other or prior 
+understandings, purchase orders, agreements and arrangements.  This License 
+shall be governed by the laws of the State of Delaware, without regard to 
+Delaware choice-of-law rules.  Exclusive jurisdiction and venue for all 
+matters relating to this License shall be in courts and fora located in the 
+State of Delaware, and you consent to such jurisdiction and venue. There are 
+no third party beneficiaries of any promises, obligations or representations 
+made by BLI herein.  Any waiver by BLI of any violation of this License by 
+you shall not constitute or contribute to a waiver of any other or future 
+violation by you of the same provision, or any other provision, of this 
+License.

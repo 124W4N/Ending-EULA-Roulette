@@ -1,0 +1,38 @@
+This evaluation license allows you to use the software only until the expiration date. Continued use beyond that date requires purchase of a regular license.
+
+You have acquired a license to use the Perl Builder(tm) Software for the purpose of evaluation only. The Software is owned and remains the property of Solutionsoft, is protected by international copyrights, and is transferred to the original purchaser and to any subsequent owner of the Software media for their use only in accordance with the license terms set forth below. Clicking the Accept button below and installing or using the software indicates your acceptance of these terms. If you do not agree to all the terms and conditions, return the Software, manuals and any partial or whole copies within thirty days of purchase for a refund, subject to any applicable restocking fees.
+
+Use of the Software 
+
+Solutionsoft grants the original purchaser (Licensee) the limited rights to possess and use the Perl Builder Software and documentation for its intended purposes. Licensee agrees that the Software will be used solely for Licensee's internal purposes.
+ 
+Software is Licensed to a Single Specific User
+
+The Perl Builder Software is licensed to a single, specific user. It is not a concurrent use license. Use of the software by more than one person requires purchase of additional copies of the Software or a site license. The licensed individual may install the software on a reasonable number of secondary computers (home, laptop, etc.) provided that no other person will, at any time, use the software. If you are an entity, Solutionsoft grants you the right to designate one individual within your organization ("Named User") to have the right to use the Software in the manner provided above.
+
+Licensee may transfer its rights under this License, provided that the party to whom such rights are transferred agrees to the terms and conditions of this license, and written notice is provided to Solutionsoft. Upon such transfer, Licensee must transfer or destroy all copies of the Software.
+
+Licensee MAY NOT modify, reverse engineer, de-compile or disassemble the software, or modify or reproduce the program documentation.
+
+Licensee MAY NOT transfer, rent, copy or use the Software in any way, in whole or in part, except as expressly permitted in this License.  
+
+LIMITED WARRANTY
+
+EXCEPT AS SPECIFICALLY STATED IN THIS AGREEMENT, THE SOFTWARE IS PROVIDED AND LICENSED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Solutionsoft warrants the Software media to be free of defects in workmanship for a period of ninety days from purchase. During this period, Solutionsoft will replace at no cost any such media returned to Solutionsoft, postage prepaid. This service is Solutionsoft's sole liability under this warranty. 
+
+DISCLAIMER
+
+LICENSE FEES FOR THE SOFTWARE DO NOT INCLUDE ANY CONSIDERATION FOR ASSUMPTION OF RISK BY SOLUTIONSOFT, AND SOLUTIONSOFT DISCLAIMS ANY AND ALL LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR OPERATION OF OR INABILITY TO USE THE SOFTWARE, EVEN IF SOLUTIONSOFT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  FURTHERMORE, LICENSEE INDEMNIFIES AND AGREES TO HOLD SOLUTIONSOFT HARMLESS FROM SUCH CLAIMS.
+
+THIS WARRANTY GIVES YOU SPECIFIED LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF WARRANTIES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
+
+This License is the complete and exclusive statement of the parties' agreement. Should any provision of this License be held to be invalid by any court of competent jurisdiction, that provision will be enforced to the maximum extent permissible, and the remainder of the License shall nonetheless remain in full force and effect. 
+
+This License is governed by the laws of the State of California. Any action or proceeding brought by either party against the other arising out of or related to this agreement shall be brought only in a state or federal court of competent jurisdiction located in Santa Clara County, California, U.S.A. The parties hereby consent to in personam jurisdiction of said courts.
+ 
+U.S. GOVERNMENT RESTRICTED RIGHTS 
+
+The SOFTWARE and documentation are protected with RESTRICTED RIGHTS.  Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 of subparagraphs (c)(1) and (2) or the Commercial Computer Software--Restricted Rights at 48 CFR 52.227-19, as applicable. Contractor/Manufacturer is Solutionsoft, 370 Altair Way, Suite 200, Sunnyvale, CA 94086.
+ 

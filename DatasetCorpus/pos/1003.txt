@@ -1,0 +1,110 @@
+The following documents are incorporated into this User Agreement by reference: 
+
+Dealio Shopper Policy at http://www.dealio.com/dealio_terms.html
+Dealio Merchant Policy at http://www.dealio.com/dealio_merchant_terms.html
+Privacy Policy at http://www.dealio.com/privacy.html
+
+Fee Policy (for paid services only) at http://www.vendio.com/company/fee_policy.html 
+Stores Policy at http://www.vendio.com/company/stores_terms.html
+Communication Services Policy at http://www.vendio.com/company/comm_terms.html
+Image Hosting Policy at http://www.vendio.com/company/ihost_terms.html
+Personal Assistance Policy at http://www.vendio.com/company/pa_terms.html
+WebHosting Policy at http://www.vendio.com/company/webhosting_terms.html
+
+This user agreement, the documents set forth above, and any other services terms (collectively, the "Terms," this "Agreement," or the "User Agreement") describe the terms and conditions on which Vendio Services, Inc. ("we" or "Vendio") offers a user ("Customer" or "you" or "your") access to our services and website. If you have a question about this Agreement, please contact us by sending e-mail to service@corp.vendio.com.  This Agreement was last revised on July 20, 2005. 
+
+1. Acceptance of Terms.
+By using this website or any Vendio service you agree to the Terms. We may amend the Terms at any time.  Subject to the 'Changes to Fees' Section, amended Terms will automatically be effective seven (7) days after we have posted the Amended Terms. Your continued use of our services will signify your acceptance of any amended Terms.  If you do not agree to the changes, you may discontinue your registration by sending an email request to service@corp.vendio.com.  The Terms may not be otherwise amended except in a writing signed by both parties.  Throughout this Agreement, (i) the phrase "in our discretion" or "in its discretion" means in Vendio's sole and arbitrary discretion and (ii) the term "including" means including without limitation. - Vendio reserves the right to reject this Agreement for any reason or no reason, prior to acceptance thereof by Vendio. Activation of any service shall indicate Vendio's acceptance of this Agreement, but does not obligate Vendio to provide access to any or all services, such access to be provided at the sole discretion of Vendio. 
+
+2. Eligibility
+Use of our services is limited to parties that lawfully can enter into and form contracts under applicable law. Without limiting the foregoing, our services are not available to minors.  Our services are not available to parties whose use of our services has been suspended or terminated.
+By accepting this Agreement, you represent that (a) you are eighteen (18) or older and, if applicable, (b) you are authorized to sign for and bind the corporation, partnership or other legal entity that will be using our services. 
+
+3. Website and Services.
+
+3.1. Right to Refuse Services.  Vendio may refuse our services to anyone at any time, in our discretion. Vendio reserves the right to discontinue, temporarily or permanently, any or all of our services to anyone at any time, with or without notice. For paid services, Vendio will refund you amounts it has charged you for each whole month of prepaid service for which Vendio refused or discontinued services, as such amounts are determined by Vendio, only if (i) Vendio exercises its right to refuse service or discontinue under this section, and (ii) you have prepaid for the refused or discontinued services. Vendio shall not be liable to you or any third-party for any termination of your access to the Hosting Service except as set forth herein. 
+
+3.2. License.  You grant us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sublicenseable (through multiple tiers) right to exercise the copyright and publicity rights (but no other rights) you have in any information you provide us, in any media now known or not currently known, for the purpose of offering our services. 
+
+3.3. Privacy.  Vendio will only use your information in accordance with our Privacy Policy. The Privacy Policy is part of this Agreement. Please note that when you voluntarily disclose personal information, that information may be collected and used by others. 
+
+3.4. Passwords and Security.  If Vendio has provided you with a password, you will at all times maintain the confidentiality of your user names and passwords. If you are a corporation, partnership or other legal entity, you are responsible for all activity and all charges by such employees.  If there is a breach of security through your account, you must immediately change your password and notify us at service@corp.vendio.com.  You will be liable for any unauthorized use of our services until you notify us of the security breach.
+
+3.5. Accurate and Complete Information.  You will provide to Vendio only true, accurate, current and complete information, including, as applicable, your credit card number and other financial information, and will update that information to keep it true, accurate, current and complete.  Vendio, its agents, suppliers, and subcontractors have the right to recover from you any costs or losses incurred as a direct or indirect result of the inaccurate or incomplete information.
+
+3.6. Limited Agency.  You authorize Vendio to access third-party marketplaces with which you have usage agreements, on your behalf, to retrieve and post information and materials necessary to provide our services to you, and you hereby appoint Vendio as your agent for this limited purpose. You permit Vendio to use such retrieved information and materials to accomplish the foregoing, and to communicate with your customers on your behalf. You acknowledge that our services may or may not provide all the information and functionality that you could obtain directly from the marketplaces.
+
+3.7. General Compliance with Laws.  You will comply with all applicable laws, statutes, ordinances and regulations in your use of our services. 
+
+4. Vendio Content.
+
+4.1. Terms.  Content made available by Vendio, including software (collectively, "Content") is the copyrighted work of Vendio and/or its suppliers. Your use of the Content is governed by the terms of the end user license agreement, if any, which accompanies or is included with the Content ("License Agreement"). You may not install or use any Content that is accompanied by or includes a License Agreement unless you first agree to the License Agreement terms. 
+
+4.2. License.  For any Content not accompanied by a license agreement, Vendio grants you, the user, a personal, nontransferable license to use the Content for viewing and otherwise using the Vendio website in accordance with these Terms of Use, and for no other purpose provided that you keep intact all copyright and other proprietary notices. 
+
+4.3. Intellectual Property.  All Content is owned by Vendio and/or its suppliers and is protected by copyright laws and international treaty provisions. Any reproduction or redistribution of the Content is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible. Without limiting the foregoing, copying or reproduction of the Content to any other server or location for further reproduction or redistribution is expressly prohibited. The Content is warranted, if at all, only according to the terms of the license agreement - and is subject to the disclaimers of these Terms.  Some clipart has been provided by www.GifArt.com. 
+
+4.4. Export Control Laws.  You acknowledge that the Content, and any accompanying documentation and/or technical information, is subject to applicable export control laws and regulations of the USA. You agree not to export or re-export the Content, directly or indirectly, to any countries that are subject to USA export restrictions. 
+
+4.5. Reverse Engineering.  You agree not to reverse engineer, reverse assemble, decompile, or otherwise attempt to (i) defeat, avoid, bypass, remove, deactivate or otherwise circumvent any protection mechanisms in Content, including without limitation any such mechanism used to restrict or control the functionality of Content, or (ii) derive the source code or the underlying ideas, algorithms, structure or organization from Content. You agree not to interfere or attempt to interfere with the proper working of Content. You agree to access Content only through the downloadable application or through Vendio's web interface.  
+
+5. Copyright Policy.
+
+5.1. Infringement.  Vendio respects copyright law and expects our account holders to do the same. Unauthorized copying or distribution of copyrighted works is an infringement of the copyright holders' rights. In our discretion and in appropriate circumstances, Vendio may terminate the accounts of users who infringe upon the copyright, or other intellectual property rights, of others. 
+
+5.2. Copyright Holders.  If you are a copyright holder who believes that Vendio's service is hosting infringing copies of your work, please let us know. Pursuant to 17 United States Code 512(c)(2) (Digital Millennium Copyright Act of 1998), our designated agent for notice of alleged copyright infringement appearing on our site is: 
+
+Administrator
+Vendio Services, Inc.
+851 Traeger Ave. Ste. 100
+San Bruno, CA 94066 
+Email Address: Administration@corp.vendio.com <mailto:Administration@corp.vendio.com>
+
+5.3. Notice of Infringement.  To file a notice of infringement with us, one needs to fulfill the requirements specified in Title II of the Digital Millennium Copyright Act of 1998. The information that you should provide to us includes the following: 
+
+a) an electronic or physical signature of the copyright holder or a person authorized to act on behalf of the copyright holder; 
+b) a description of the copyrighted work that is claimed to have been infringed; 
+c) the location on our web site of the material that you claim to be infringing; 
+d) your address, telephone number, and email address; 
+e) a statement by you that you have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g. fair use); and 
+f) a statement by you, made under penalty of perjury that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+
+6. Indemnity and Disclaimer
+
+6.1. Indemnity.  You will, at your own expense, indemnify, defend and hold Vendio and our subsidiaries, affiliates, officers, directors, agents, and employees harmless from and against any loss, cost, damages, liability, or expense arising out of or relating to (a) a third-party claim, action or allegation of infringement, misuse or misappropriation based on information, data, files or other content submitted by you to us; (b) any fraud, manipulation, or other breach of this Agreement by you; (c) any third-party claim, action or allegation brought against Vendio arising out of or relating to a dispute with you over the terms and conditions of an agreement or related to the purchase or sale of any goods or services; (d) your violation of any law or the rights of a third party; or (e) your use, or Vendio's provision, of our services or use of your account by any third party. Vendio will have the right to participate in its defense and hire counsel of its choice, at your expense. You will not settle any action or claims on Vendio's behalf without the prior written consent of Vendio.
+
+6.2. Disclaimer and Limitation of Liability.
+
+(a)	Vendio provides its services "as is" and "as available" and, except as expressly set forth in this Agreement disclaims all other warranties, whether written, oral, express or implied, including without limitation any warranties of title, merchantability, fitness for a particular purpose, and non-infringement. Vendio will not be liable due to outages caused by the failure of public network or communications components or errors in any electronic files provided by Vendio.  Vendio makes no representation or warranty that the operation of Vendio's site will be uninterrupted or error-free, and Vendio will not be liable for the consequences of any interruptions or errors. No advice or information from Vendio, whether oral or written, shall create any warranty not expressly stated in the Terms of Use.
+
+(b)	Limitation of Liability.  
+Neither Vendio nor its suppliers will be liable for (i) any loss of business, profits or goodwill, loss of use or data, interruption of business or for any indirect, special, incidental or consequential damages of any character, (however arising, including negligence) arising out of or in connection with this agreement even if Vendio or its supplier is aware of the possibility of such damages, or (ii) any damages that result in any way from your use or inability to use Vendio services, or that result from errors, defects, omissions, delays in operation or transmission, or any other failure of performance of the Vendio services. Our liability, and the liability of our suppliers, to you or any third parties in any circumstance is limited to the greater of (a) the amount of fees you pay to us in the 6 months prior to the action giving rise to liability, or (b) $100. This limitation applies notwithstanding any failure of essential purpose remedy and to the fullest extent permitted by law.
+
+7. General.
+
+7.1. Termination at Vendio Discretion.  In our discretion, we may immediately issue a warning, temporarily suspend, or terminate your registration, and delete information you have provided us if you breach any provision of this Agreement.  This Section does not limit any other remedies that may be available to Vendio.
+
+7.2. Affiliates. Vendio is not responsible or liable for any services, including shipping or tracking, offered by any partner or affiliate company.
+
+7.3. Third Party Agreements.  You will comply with the terms and conditions of all agreements you have with third parties, including providers of marketplaces, as such terms and conditions relate to use of our services including terms and conditions related to types of items that may be sold or restrictions on concurrent sales. 
+
+7.4. No Agency.  Except for the limited purpose stated in the 'Limited Agency' Section, you and Vendio are independent contractors, and no agency, partnership, joint venture, employee-employer or franchisor-franchisee relationship is intended or created by this Agreement. 
+
+7.5. Notices.  Except as explicitly stated otherwise, any notices will be given by email to Administration@corp.vendio.com (in the case of Vendio) or to the email address you provide to Vendio during the registration process (in your case), or such other address as the party will specify. Notice will be deemed given 24 hours after email is sent, unless the sending party is notified that the email address is invalid. Alternatively, we may give you notice by certified mail, postage prepaid and return receipt requested, to the address provided to Vendio during the registration process. In such case, notice will be deemed given 3 days after the date of mailing. 
+
+7.6. Arbitration.  Any controversy or claim in any way arising out of or relating to this Agreement will be settled by binding arbitration in accordance with the commercial arbitration rules of the American Arbitration Association. The arbitration will be conducted in San Francisco, California and judgment on the arbitration award may be entered into any court having jurisdiction thereof. Either you or Vendio may seek any interim or preliminary relief from a court of competent jurisdiction in California necessary to protect the rights or property of you or Vendio pending the completion of arbitration.
+
+7.7. Governing Law.  California law will govern this Agreement, except for the body of law relating to conflicts of law.  Subject to the Arbitration Section, venue for any legal action will be the state courts of San Mateo County, California, or the federal courts of the Northern District of California.  The prevailing party in any litigation in connection with this Agreement will be entitled to recover from the other party its costs and reasonable attorneys' fees and other expenses.
+
+7.8. Waivers.  A party's failure to enforce any provision of this Agreement shall not be a waiver of the provision or the right to enforce it at a later time.
+
+7.9. Entire Agreement.  This Agreement sets forth the entire understanding and agreement between us with respect to the subject matter hereof.  You agree that you are not entering into this Agreement in reliance on any statements or representations other than those set forth herein. If any provision of this Agreement is held to be invalid or unenforceable, such provision will be struck and the remaining provisions will be enforced.
+
+7.10. Assignment.  This Agreement and your user names and passwords are not assignable, transferable or sublicensable by you without Vendio's prior written consent, and any such conveyance will be null and void.  
+
+7.11. Attorneys' Fees.  The prevailing party in any litigation in connection with this Agreement will be entitled to recover from the other party its costs and reasonable attorneys' fees and other expenses.
+
+7.12. Headings.  Should any term or condition be in conflict between this Agreement and any document incorporated by reference into this Agreement, the terms of this Agreement will control.  The use of headings is for convenience and will not affect the interpretation of this Agreement.
+
+7.13. Other Terms.  Some of our services, for example, legacy systems, may have additional terms of use. Any such terms will be displayed in connection with the applicable services and are incorporated into these Terms by reference.
+

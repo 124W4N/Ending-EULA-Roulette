@@ -1,0 +1,11 @@
+eNotebook Overview
+---------------------------------
+eNotebook is a very useful tool for surfing, offline browsing, organizing, and editing downloaded Web pages. Simply by selecting an IE context menu, entire pages would be saved in a structured archive for offline browsing at your leisure. You would free organize your downloaded web pages in a tree structure and edit the content with an embeded html wysiwyg editor. And what's more, eNotebook features powerful & fast full-text search, exporting to and importing from file, and page copying, cutting, pasting etc. In a word, eNotebook gives you an easy way to save and organize information from the web. 
+
+eNotebook System Requirements
+-----------------------------------------------
+Pentium 75 MHz Processor or Higher 
+16 MB Memory (32 MB Recommended) 
+Microsoft Windows 95/98/2000/NT 4 or later 
+Microsoft Internet Explorer 5.0 or later 
+
